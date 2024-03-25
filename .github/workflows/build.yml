@@ -69,3 +69,6 @@ jobs:
 
       - name: Build
         run: ./mvnw clean package -Dbonita.environment=integration 
+
+      - name: "Display artifacts"
+        run: ls -ltr app/target      
