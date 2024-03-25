@@ -35,7 +35,7 @@ jobs:
               {
                 "id": "bar",
                 "name": "Bonita Artifact Repository",
-                "url": "https://bonitasoft.jfrog.io/artifactory/maven",
+                "url": "https://bonitasoft.jfrog.io/artifactory/releases",
                 "releases": {
                   "enabled": "true"
                 },
@@ -49,7 +49,7 @@ jobs:
               {
                 "id": "bar",
                 "name": "Bonita Artifact Repository",
-                "url": "https://bonitasoft.jfrog.io/artifactory/maven",
+                "url": "https://bonitasoft.jfrog.io/artifactory/releases",
                 "releases": {
                   "enabled": "true"
                 },
